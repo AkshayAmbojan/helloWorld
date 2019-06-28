@@ -1,0 +1,16 @@
+{
+	"countryCode" :"DE",
+	"pickUpPoint": "FRA",
+	"geoLocationPickUp":
+		{"Latitude":"50.041381",
+		"Longitude":"8.580055"
+	},
+	"pickUpDate": "2019-06-24T10:00:00",
+	"dropOffDate": "2019-06-26T10:00:00",
+	"dropOffPoint" : "FRA",
+	"geoLocationDropOff":
+		{"Latitude":"50.041381",
+		"Longitude":"8.580055"
+	},
+	"currency":"EUR",
+}

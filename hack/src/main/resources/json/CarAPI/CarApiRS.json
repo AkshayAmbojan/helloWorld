@@ -1,0 +1,266 @@
+
+{
+  "carsList":{
+   "Cars":[  
+      {  
+         "Id":"MBMR-6--1Daily-FRAT073-FRAT073",
+         "VehicleDetails":{  
+            "Make":"Toyota Aygo",
+            "CarClass":"Mini 2/3Door Car",
+            "MinDoors":3,
+            "MaxDoors":3,
+            "FuelLevel":"Full to Full",
+            "CarCategory":{  
+               "Code":"M",
+               "Value":"Mini"
+            },
+            "CarType":{  
+               "Code":"B",
+               "Value":"2/3Door Car"
+            },
+            "TransmissionDrive":{  
+               "Code":"M",
+               "Value":"Manual transmission"
+            },
+            "FuelAC":{  
+               "Code":"R",
+               "Value":"air conditioning"
+            },
+            "Capacity":{  
+               "AdultCount":4,
+               "ChildCount":0,
+               "SmallLuggageCount":0,
+               "LargeLuggageCount":2
+            }
+         },
+         "Supplier":{  
+            "Id":"6",
+            "Name":"Alamo Rent A Car",
+            "Code":"AL"
+         },
+         "PickupDetails":{  
+            "DateTime":"2019-07-24T10:00:00",
+            "ShuttleCategory":"NoShuttle",
+            "Location":{  
+               "Name":"Frafra Frankfurt Flughafe",
+               "Code":"FRA",
+               "LocationId":"FRAT073",
+               "Address":{  
+                  "Address1":"Terminal 1 2 Mietwagenzentrum",
+                  "City":"Frankfurt Am Main",
+                  "Province":"NA",
+                  "Country":"DEU",
+                  "PostalCode":"60549"
+               },
+               "GeoLocation":{  
+                  "Latitude":"50.041381",
+                  "Longitude":"8.580055"
+               }
+            },
+            "Distance":{  
+               "Value":"1.224",
+               "Unit":"KM",
+               "Direction":"SE"
+            }
+         },
+         "DropOffDetails":{  
+            "DateTime":"2019-07-26T16:30:00",
+            "Location":{  
+               "Name":"Frafra Frankfurt Flughafe",
+               "Code":"FRA",
+               "LocationId":"FRAT073",
+               "Address":{  
+                  "Address1":"Terminal 1 2 Mietwagenzentrum",
+                  "City":"Frankfurt Am Main",
+                  "Province":"NA",
+                  "Country":"DEU",
+                  "PostalCode":"60549"
+               },
+               "GeoLocation":{  
+                  "Latitude":"50.041381",
+                  "Longitude":"8.580055"
+               }
+            },
+            "Distance":{  
+               "Value":"1.224",
+               "Unit":"KM",
+               "Direction":"SE"
+            }
+         },
+         "RateDetails":{  
+            "RatePeriod":"Daily",
+            "RateCode":"AN3DE",
+            "PrePay":false,
+            "CreditCardRequired":false,
+            "Mileages":[  
+               {  
+                  "FreeDistance":{  
+                     "Value":"-1"
+                  },
+                  "FreeDistanceRatePeriod":"Daily"
+               }
+            ]
+         },
+         "Price":{  
+            "RatePeriodUnitPrice":{  
+               "Value":"53.67",
+               "Currency":"USD"
+            },
+            "BasePrice":{  
+               "Value":"107.34",
+               "Currency":"USD"
+            },
+            "TotalPrice":{  
+               "Value":"237.60",
+               "Currency":"USD"
+            }
+         },
+         "CancellationPolicy":{  
+            "FreeCancellation":true,
+            "FreeCancellationEndDateTime":"2019-07-24T10:00:00"
+         },
+         "Images":[  
+            {  
+               "Type":"Thumbnail",
+               "Size":"t",
+               "Href":"https://images.trvl-media.com/cars/6/AL_DEU_MBMR_03292019_t.jpg"
+            },
+            {  
+               "Type":"Image",
+               "Size":"s",
+               "Href":"https://images.trvl-media.com/cars/6/AL_DEU_MBMR_03292019_s.jpg"
+            }
+         ]
+      },
+      {  
+         "Id":"MBMR-15--1Daily-FRAT001-FRAT001",
+         "VehicleDetails":{  
+            "Make":"Toyota Aygo",
+            "CarClass":"Mini 2/3Door Car",
+            "MinDoors":3,
+            "MaxDoors":3,
+            "FuelLevel":"Full to Full",
+            "CarCategory":{  
+               "Code":"M",
+               "Value":"Mini"
+            },
+            "CarType":{  
+               "Code":"B",
+               "Value":"2/3Door Car"
+            },
+            "TransmissionDrive":{  
+               "Code":"M",
+               "Value":"Manual transmission"
+            },
+            "FuelAC":{  
+               "Code":"R",
+               "Value":"air conditioning"
+            },
+            "Capacity":{  
+               "AdultCount":4,
+               "ChildCount":0,
+               "SmallLuggageCount":0,
+               "LargeLuggageCount":2
+            }
+         },
+         "Supplier":{  
+            "Id":"15",
+            "Name":"Enterprise",
+            "Code":"ET"
+         },
+         "PickupDetails":{  
+            "DateTime":"2019-07-24T10:00:00",
+            "ShuttleCategory":"NoShuttle",
+            "Location":{  
+               "Name":"Frankfurt Flughafen T1t2",
+               "Code":"FRA",
+               "LocationId":"FRAT001",
+               "Address":{  
+                  "Address1":"Terminal 1 And 2",
+                  "City":"Frankfurt Am Main",
+                  "Country":"DEU",
+                  "PostalCode":"60549"
+               },
+               "GeoLocation":{  
+                  "Latitude":"50.0527",
+                  "Longitude":"8.584716"
+               }
+            },
+            "Distance":{  
+               "Value":"0.949",
+               "Unit":"KM",
+               "Direction":"E"
+            }
+         },
+         "DropOffDetails":{  
+            "DateTime":"2019-07-26T16:30:00",
+            "Location":{  
+               "Name":"Frankfurt Flughafen T1t2",
+               "Code":"FRA",
+               "LocationId":"FRAT001",
+               "Address":{  
+                  "Address1":"Terminal 1 And 2",
+                  "City":"Frankfurt Am Main",
+                  "Country":"DEU",
+                  "PostalCode":"60549"
+               },
+               "GeoLocation":{  
+                  "Latitude":"50.0527",
+                  "Longitude":"8.584716"
+               }
+            },
+            "Distance":{  
+               "Value":"0.949",
+               "Unit":"KM",
+               "Direction":"E"
+            }
+         },
+         "RateDetails":{  
+            "RatePeriod":"Daily",
+            "RateCode":"EW3DE",
+            "PrePay":false,
+            "CreditCardRequired":false,
+            "Mileages":[  
+               {  
+                  "FreeDistance":{  
+                     "Value":"-1"
+                  },
+                  "FreeDistanceRatePeriod":"Daily"
+               }
+            ]
+         },
+         "Price":{  
+            "RatePeriodUnitPrice":{  
+               "Value":"58.55",
+               "Currency":"USD"
+            },
+            "BasePrice":{  
+               "Value":"117.10",
+               "Currency":"USD"
+            },
+            "TotalPrice":{  
+               "Value":"259.19",
+               "Currency":"USD"
+            }
+         },
+         "CancellationPolicy":{  
+            "FreeCancellation":true,
+            "FreeCancellationEndDateTime":"2019-07-24T10:00:00"
+         },
+         "Images":[  
+            {  
+               "Type":"Thumbnail",
+               "Size":"t",
+               "Href":"https://images.trvl-media.com/cars/15/ET_DEU_MBMR_03292019_t.jpg"
+            },
+            {  
+               "Type":"Image",
+               "Size":"s",
+               "Href":"https://images.trvl-media.com/cars/15/ET_DEU_MBMR_03292019_s.jpg"
+            }
+         ]
+      }
+	  ]
+	}
+}
+}
